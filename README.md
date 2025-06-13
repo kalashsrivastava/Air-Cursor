@@ -22,7 +22,7 @@
 
 ## 🗂️ Project Structure
 
-Air-Cursor/<br/>
+Air-Cursor<br/>
 │<br/>
 ├── web/ # Frontend files (HTML/CSS/JS)<br/>
 ├── Aura.py # Voice assistant (GPT + SpeechRecognition)<br/>
