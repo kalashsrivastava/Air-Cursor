@@ -24,7 +24,7 @@
 
 Air-Cursor/
 │
-├── web/ # Frontend files (HTML/CSS/JS)
+├── web/ # Frontend files (HTML/CSS/JS)<br/>
 ├── Aura.py # Voice assistant (GPT + SpeechRecognition)
 ├── Gesture_Controller.py # Hand tracking and gesture-based control
 ├── app.py # Main entry point to run the system
