@@ -22,13 +22,13 @@
 
 ## 🗂️ Project Structure
 
-Air-Cursor/
-│
+Air-Cursor/<br/>
+│<br/>
 ├── web/ # Frontend files (HTML/CSS/JS)<br/>
-├── Aura.py # Voice assistant (GPT + SpeechRecognition)
-├── Gesture_Controller.py # Hand tracking and gesture-based control
-├── app.py # Main entry point to run the system
-├── .gitignore
+├── Aura.py # Voice assistant (GPT + SpeechRecognition)<br/>
+├── Gesture_Controller.py # Hand tracking and gesture-based control<br/>
+├── app.py # Main entry point to run the system<br/>
+├── .gitignore<br/>
 
 ---
 
